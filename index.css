@@ -16,5 +16,7 @@ font-family: racing sans one;
 .para{
     color: white;
     margin: 10%;
-    font-size:xx-large;
+}
+.table{
+    height: 300px;
 }
