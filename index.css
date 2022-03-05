@@ -16,13 +16,16 @@ font-family: racing sans one;
     color: white;
     margin: 10%;
 }
+.history{
+    text-align: center;
+}
 .table{
     height: 300px;
 }
 .label{
     background-color: yellow;
     width: 40%;
-    padding: 20px;
+    padding: 10px;
     margin: 50px;
     text-align: center;
     margin-left: 30%;
@@ -36,4 +39,15 @@ font-family: racing sans one;
     width: 150px;
     border-radius: 10px;
     margin-left: 35%;
+    padding: 5px;
+}
+.button{
+    width: 20%;
+    margin-left: 40%;
+    padding: 5px;
+    background-color: green;
+    border-radius: 5px;
+}
+.button:hover{
+    background-color: yellowgreen;
 }
