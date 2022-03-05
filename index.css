@@ -20,3 +20,20 @@ font-family: racing sans one;
 .table{
     height: 300px;
 }
+.label{
+    background-color: yellow;
+    width: 40%;
+    padding: 20px;
+    margin: 50px;
+    text-align: center;
+}
+.form{
+    display:flex;
+    flex-direction: column;
+}
+.label input{
+    margin: 15px;
+    width: 150px;
+    border-radius: 10px;
+    margin-left: 35%;
+}
