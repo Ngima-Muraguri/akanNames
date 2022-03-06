@@ -55,3 +55,12 @@ font-family: racing sans one;
 .link{
     padding: 20px;
 }
+.copy{
+    font-weight: bolder;
+    text-align: center;
+}
+.design{
+    font-weight: bolder;
+    float: right;
+    background-color: yellow;
+}
