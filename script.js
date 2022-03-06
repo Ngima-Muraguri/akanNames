@@ -9,7 +9,7 @@ function calculateDate(){
 var dd= parseInt(document.getElementById('day').value);
 var mm= parseInt(document.getElementById('month').value);
 var yy= parseInt(document.getElementById('year').value);
-
+// var nick= document.getElementById.('your').value;
 
 var cc=(yy-1)/100+1;
 
