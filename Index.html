@@ -45,13 +45,13 @@
         <form class="form">
 
            <label for="day">date of birth</label>
-           <input type="text" id="day" placeholder="e.g 29">
+           <input type="number" id="day" placeholder="e.g 29" min="1" max="31">
 
            <label for="month">month of birth</label>
-           <input type="text" id="month" placeholder="e.g 5 for May">
+           <input type="number" id="month" placeholder="e.g 5 for May" min="1" max="12">
 
            <label for="year">year of birth</label>
-           <input type="text" id="year" placeholder="e.g 1997">
+           <input type="number" id="year" placeholder="e.g 1997" min="1900" max="2021">
 
            <input type="radio" id="fgender" name="gender"> Female
            <input type="radio" id="mgender" name="gender">male
