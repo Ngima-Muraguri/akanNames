@@ -2,7 +2,7 @@
 font-family: racing sans one;
 }
 .home{
-    background-image: url("./Images/flag.webp");
+    background-image: url('Images/flag.webp');
     background-size: contain;
     height: 300px;
 }
